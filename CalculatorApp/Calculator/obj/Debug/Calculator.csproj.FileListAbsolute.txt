@@ -1,0 +1,13 @@
+D:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.exe.config
+D:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.exe
+D:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.pdb
+D:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.exe
+D:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.pdb
+E:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.exe.config
+E:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.exe
+E:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.pdb
+E:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.exe
+E:\visual studio\CalculatorApp\Calculator\bin\Debug\Calculator.pdb
+E:\visual studio\CalculatorApp\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
